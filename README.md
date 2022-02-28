@@ -1,5 +1,5 @@
 # Shain-pull-request-demo
 
-my repo is the best repo  
+my repo is the best repo  (Really?)
 i look forward to reading your pull requests   
-tacos  
+soft shell tacos are better
